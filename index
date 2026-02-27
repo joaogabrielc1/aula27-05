@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Comentario de inicio-->
+    <header id="cabecalho">
+        <h1>João Gabriel</h1>
+
+        <nav>
+            <ul>
+                <li>
+                    <a target="_blank" href="https://unifebe.edu.br">clique aqui para ir a unifebe</a>
+                </li>
+                <li>
+                    <a href="mailto:jnau@unifebe.edu.br">enviar email ao professor</a>
+                </li>
+                <li>
+                    <a href="#noticia">Noticia urgente!!!</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Carossel de Imagens</h2>
+            <div>
+                <img src="assets/img/fl_progressive,f_webp,q_100,w_1200.webp" alt="">
+                <img src="https://s2-valor.glbimg.com/gOz4LUqWf2TLsCXsDoqCBMTjmb4=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Z/e/79vGrZQyy35XM87BA6SA/foto21emp-101-civic-b5.jpg" alt="">
+            </div>
+        </section>
+
+        <section id="noticia">
+            <h2>Noticias urgentes</h2>
+
+            <article>
+                <h3>Segunda aula HTML</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt ratione pariatur quae animi. Eum saepe soluta, alias laudantium ad dolor animi debitis explicabo! Consequatur animi nulla ratione ipsam alias fugiat.</p>
+            </article>
+
+            <article>
+                <h3>Próxima aula HTML</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed autem sapiente aliquid nostrum est amet tempore, reprehenderit vitae, unde, error magnam natus porro quod a explicabo? Velit iure omnis officia.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por João Gabriel</p>
+    </footer>
+</body>
+</html>
